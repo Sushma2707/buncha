@@ -1,0 +1,17 @@
+.maincontainer{
+    text-align: center;
+    background-color:aliceblue;
+    font-family: "Roboto";
+    color:rgb(47, 45, 45);
+    height:100vh;
+    padding:20px;
+}
+
+.Table{
+  padding-left:550px;
+  padding-top: 30px;
+
+}
+
+
+
